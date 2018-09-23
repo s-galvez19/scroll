@@ -1,0 +1,15 @@
+{
+  "name": "scrollgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start":"reload",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "reload": "^2.3.1"
+  }
+}
